@@ -2,7 +2,7 @@
 
 This repo is part of a tutorial [blog post over here](https://writingjavascript.com/build-a-web-components-app-with-redux).
 
-![](https://writingjavascript.com/build-a-web-components-app-with-redux_wj-todos_completed.gif)
+![](https://writingjavascript.com/how-to-build-a-web-components-app-with-redux_wj-todos_completed.gif)
 
 Start reading by opening index.html.
 
